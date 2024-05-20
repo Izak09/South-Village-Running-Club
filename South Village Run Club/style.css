@@ -1,0 +1,90 @@
+body {
+    background-color: rgb(255, 179, 87);
+}
+
+body, header, div {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    color: rgb(255, 179, 87);
+    font-family: "Freeman", sans-serif;
+    display: flex;
+    justify-content: flex-start;
+    gap: 40px;
+    padding: 10px 10px 10px 10px;
+    background-color: rgb(15, 118, 104);
+}
+
+.village-container {
+    margin-top: 15rem;
+    padding: 30px 30px;
+    color: rgb(255, 179, 87);
+    text-align: center;
+    background-color: rgb(97, 43, 0);
+    opacity: .9;
+    font-family: "Kanit", sans-serif;
+}
+
+.motivation-container {
+    gap: 10px;
+    font-family: "Poetsen One", sans-serif;
+    color: rgb(119, 35, 9);
+    margin-top: 15rem;
+    margin-left: 15px;
+}
+
+.images-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.image-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    padding: 0 10px;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+}
+
+.background-runner {
+    padding: 30px 30px 30px 30px;
+    font-size: 17px;
+    background-color: rgb(15, 118, 104);
+    font-family: "Wix Madefor Display", sans-serif;
+    margin-top: 10rem;
+    width: 100%;
+    color: rgb(242, 255, 0);
+}
+
+.fun-container {
+    margin-bottom: 5rem;
+    margin-top: 5rem;
+    text-align: center;
+    color: rgb(248, 255, 118);
+}
+
+footer {
+    font-family: "Freeman", sans-serif;
+    display: flex;
+    justify-content: flex-start;
+    gap: 40px;
+    padding: 10px 10px 10px 10px;
+    background-color: rgb(15, 118, 104);
+}
+
+
+
+
+
+
+
+    
+
